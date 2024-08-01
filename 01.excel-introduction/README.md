@@ -17,25 +17,20 @@ Text Alignment:
 
 - **Vertical Alignment:** Align text to the top, middle, or bottom of the cell using the vertical alignment options in the "Home" tab.
 
-### Text Wrapping:
+- **Text Wrapping:** Enable text wrapping by selecting the cells, then clicking "Wrap Text" in the "Home" tab. This allows text to display on multiple lines within a cell.
+- 
+- **Merging Cells:** Select the cells you want to merge, then click "Merge & Center" in the "Home" tab. This combines the selected cells into one cell and centers the content.
 
-Enable text wrapping by selecting the cells, then clicking "Wrap Text" in the "Home" tab. This allows text to display on multiple lines within a cell.
-Merging Cells:
+- ** Applying Borders:** Select the cells, click the "Borders" button in the "Home" tab, and choose the border style you want to apply. Borders can be added to the top, bottom, left, right, or all sides of the selected cells.
+  
+- **Applying Shading/Fill Color:** Select the cells, click the "Fill Color" button in the "Home" tab, and choose a color to fill the cells.
 
-Select the cells you want to merge, then click "Merge & Center" in the "Home" tab. This combines the selected cells into one cell and centers the content.
-Applying Borders:
+- **Changing Font and Font Size:** Select the cells, then use the font options in the "Home" tab to change the font type, size, style (bold, italic, underline), and color.
 
-Select the cells, click the "Borders" button in the "Home" tab, and choose the border style you want to apply. Borders can be added to the top, bottom, left, right, or all sides of the selected cells.
-Applying Shading/Fill Color:
+- **Number Formatting:** Select the cells, then use the "Number Format" dropdown in the "Home" tab to apply different number formats, such as currency, percentage, date, time, or custom formats.
 
-Select the cells, click the "Fill Color" button in the "Home" tab, and choose a color to fill the cells.
-Changing Font and Font Size:
+### Advanced Formatting:
 
-Select the cells, then use the font options in the "Home" tab to change the font type, size, style (bold, italic, underline), and color.
-Number Formatting:
-
-Select the cells, then use the "Number Format" dropdown in the "Home" tab to apply different number formats, such as currency, percentage, date, time, or custom formats.
-Advanced Formatting:
 Conditional Formatting:
 
 Use conditional formatting to apply formatting based on specific criteria. Select the cells, then go to "Conditional Formatting" in the "Home" tab and create rules based on your needs (e.g., highlight cells greater than a certain value, apply color scales, etc.).
